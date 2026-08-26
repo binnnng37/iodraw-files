@@ -256,6 +256,12 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-97" value="确定异常/地址相关输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="1220" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hTrTksm2q4P5ayqpVxau-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.134;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-95" target="hTrTksm2q4P5ayqpVxau-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hTrTksm2q4P5ayqpVxau-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.812;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-96" target="hTrTksm2q4P5ayqpVxau-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
