@@ -15,9 +15,9 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-5" value="设置输入输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="130" width="105" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hTrTksm2q4P5ayqpVxau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hTrTksm2q4P5ayqpVxau-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="911.7142159598214" as="targetPoint" />
+            <mxPoint x="30" y="912" as="targetPoint" />
             <mxPoint x="53.75" y="400" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
