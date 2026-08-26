@@ -56,8 +56,8 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="130" width="110" height="50" as="geometry" />
+        <mxCell id="hTrTksm2q4P5ayqpVxau-5" value="设置输入输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="130" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
