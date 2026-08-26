@@ -15,8 +15,8 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-5" value="设置输入输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="130" width="105" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="hTrTksm2q4P5ayqpVxau-7" value="复位信号判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="52.5" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
