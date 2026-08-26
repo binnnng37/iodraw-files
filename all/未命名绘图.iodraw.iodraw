@@ -130,7 +130,7 @@
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="810" as="targetPoint" />
+            <mxPoint x="160" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-61" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-60">
@@ -157,7 +157,7 @@
           <mxGeometry x="180" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-65" value="输出指令地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="900" width="120" height="30" as="geometry" />
+          <mxGeometry x="100" y="920" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
