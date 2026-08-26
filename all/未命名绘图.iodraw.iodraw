@@ -106,7 +106,7 @@
           <mxGeometry x="190" y="570" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-45" value="跳转类型判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="630" width="70" height="50" as="geometry" />
+          <mxGeometry x="187.5" y="630" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
