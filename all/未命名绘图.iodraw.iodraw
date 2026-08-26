@@ -113,11 +113,6 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-45" value="跳转类型判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187.5" y="630" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="232.57142857142856" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-51" value="计算下条地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187.5" y="710" width="90" height="30" as="geometry" />
         </mxCell>
