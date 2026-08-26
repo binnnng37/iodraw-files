@@ -25,16 +25,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-15">
-          <mxGeometry x="0.1273" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-7" value="复位信号判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="53.75" y="230" width="77.5" height="80" as="geometry" />
         </mxCell>
