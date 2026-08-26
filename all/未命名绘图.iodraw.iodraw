@@ -88,11 +88,11 @@
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="560" as="targetPoint" />
+            <mxPoint x="230" y="570" as="targetPoint" />
             <mxPoint x="200" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-38" value="使能有效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-37">
+        <mxCell id="hTrTksm2q4P5ayqpVxau-38" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-37">
           <mxGeometry x="0.3078" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
