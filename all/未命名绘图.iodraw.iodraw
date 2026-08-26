@@ -15,10 +15,17 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-5" value="设置输入输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="130" width="105" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTrTksm2q4P5ayqpVxau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hTrTksm2q4P5ayqpVxau-65">
+        <mxCell id="hTrTksm2q4P5ayqpVxau-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="912" as="targetPoint" />
-            <mxPoint x="53.75" y="400" as="sourcePoint" />
+            <mxPoint x="53.75" y="905" as="targetPoint" />
+            <mxPoint x="17.5" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="17.75" y="401" />
+              <mxPoint x="38.75" y="401" />
+              <mxPoint x="38.75" y="646" />
+              <mxPoint x="33.75" y="646" />
+              <mxPoint x="33.75" y="905" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-10" value="使能有效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-9">
