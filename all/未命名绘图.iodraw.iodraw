@@ -247,6 +247,9 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-86" value="使能是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="1070" width="75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="hTrTksm2q4P5ayqpVxau-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1180" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
