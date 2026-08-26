@@ -129,7 +129,7 @@
           <mxGeometry x="323.5" y="800" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-58" value="流水线是否暂停" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="570" width="90" height="60" as="geometry" />
+          <mxGeometry x="180" y="570" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
