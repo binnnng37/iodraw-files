@@ -20,6 +20,11 @@
             <mxPoint x="30" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hTrTksm2q4P5ayqpVxau-10" value="使能有效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-9">
+          <mxGeometry x="0.3296" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-7" value="复位信号判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="52.5" y="230" width="80" height="80" as="geometry" />
         </mxCell>
