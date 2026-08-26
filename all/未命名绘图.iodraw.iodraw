@@ -239,6 +239,11 @@
             <mxPoint x="220" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hTrTksm2q4P5ayqpVxau-94" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTrTksm2q4P5ayqpVxau-91">
+          <mxGeometry x="0.172" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-86" value="使能是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="1070" width="75" height="50" as="geometry" />
         </mxCell>
