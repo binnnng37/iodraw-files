@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-5" value="设置输入输出信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="45" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -32,6 +32,11 @@
         <mxCell id="hTrTksm2q4P5ayqpVxau-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="92.57142857142861" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hTrTksm2q4P5ayqpVxau-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hTrTksm2q4P5ayqpVxau-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="92.66666666666652" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hTrTksm2q4P5ayqpVxau-7" value="复位信号判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
