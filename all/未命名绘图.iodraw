@@ -187,10 +187,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-59" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;" edge="1" parent="1">
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-59" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;exitX=1.008;exitY=0.199;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wq75Vk_UO1A5kvITEgm8-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="280" as="sourcePoint" />
             <mxPoint x="690" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="242" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
