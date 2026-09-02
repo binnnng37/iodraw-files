@@ -27,10 +27,10 @@
         <mxCell id="kT4_YSel-MGOpIn8Tgrq-5" value="运算ALU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kT4_YSel-MGOpIn8Tgrq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kT4_YSel-MGOpIn8Tgrq-6" value="访存MEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kT4_YSel-MGOpIn8Tgrq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kT4_YSel-MGOpIn8Tgrq-7" value="寄存器Reg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kT4_YSel-MGOpIn8Tgrq-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
