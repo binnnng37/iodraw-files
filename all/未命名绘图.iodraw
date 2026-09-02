@@ -124,17 +124,8 @@
             <mxPoint x="140" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-43" value="sys_clk_50M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-43" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="500" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.86;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wq75Vk_UO1A5kvITEgm8-5" target="wq75Vk_UO1A5kvITEgm8-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="305" />
-              <mxPoint x="160" y="480" />
-              <mxPoint x="328" y="480" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
