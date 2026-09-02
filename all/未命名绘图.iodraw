@@ -243,11 +243,12 @@
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-68" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;exitX=0.997;exitY=0.831;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679" y="511" as="sourcePoint" />
-            <mxPoint x="759" y="433" as="targetPoint" />
+            <mxPoint x="670" y="518" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="510" />
-              <mxPoint x="690" y="433" />
+              <mxPoint x="681" y="517" />
+              <mxPoint x="681" y="487" />
+              <mxPoint x="681" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
