@@ -76,8 +76,8 @@
         <mxCell id="wq75Vk_UO1A5kvITEgm8-26" value="CPU_rst_u" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-27" value="inst&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;dout&lt;/div&gt;&lt;div&gt;inst_ce&lt;/div&gt;&lt;div&gt;inst_addr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data_ce&lt;/div&gt;&lt;div&gt;Data_we&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-27" value="inst&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;dout&lt;/div&gt;&lt;div&gt;inst_ce&lt;/div&gt;&lt;div&gt;inst_addr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data_ce&lt;/div&gt;&lt;div&gt;Data_we&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data_addr&lt;/div&gt;&lt;div&gt;Data_d in&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
