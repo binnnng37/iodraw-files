@@ -57,7 +57,7 @@
         <mxCell id="kT4_YSel-MGOpIn8Tgrq-18" value="GPIO控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kT4_YSel-MGOpIn8Tgrq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kT4_YSel-MGOpIn8Tgrq-19" value="定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kT4_YSel-MGOpIn8Tgrq-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.053;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kT4_YSel-MGOpIn8Tgrq-15" target="kT4_YSel-MGOpIn8Tgrq-16">
