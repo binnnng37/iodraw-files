@@ -169,6 +169,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-58" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="210" as="sourcePoint" />
+            <mxPoint x="175" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="210" />
+              <mxPoint x="700" y="140" />
+              <mxPoint x="120" y="140" />
+              <mxPoint x="120" y="185" />
+              <mxPoint x="150" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
