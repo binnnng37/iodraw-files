@@ -353,8 +353,14 @@
             <mxPoint x="150" y="350" as="sourcePoint" />
             <mxPoint x="210" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="430" />
+              <mxPoint x="150" y="455" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-84" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="sourcePoint" />
+            <mxPoint x="520" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
