@@ -335,9 +335,9 @@
         <mxCell id="wq75Vk_UO1A5kvITEgm8-81" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="867" y="570" as="sourcePoint" />
-            <mxPoint x="860" y="480" as="targetPoint" />
+            <mxPoint x="440" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="930" y="580" />
+              <mxPoint x="950" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
