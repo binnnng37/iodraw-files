@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="80" height="80" as="geometry" />
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-1" value="&lt;h1&gt;MIniMIPS32&lt;/h1&gt;&lt;div&gt;处理器&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
