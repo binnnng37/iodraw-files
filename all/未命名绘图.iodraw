@@ -345,6 +345,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
