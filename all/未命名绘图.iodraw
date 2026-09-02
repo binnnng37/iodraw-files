@@ -83,7 +83,7 @@
           <mxGeometry x="750" y="110" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="230" width="120" height="150" as="geometry" />
+          <mxGeometry x="750" y="230" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-30" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22dout_a%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22790%22%20y%3D%22120%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="410" width="120" height="260" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="790" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-32" value="数据寄存器&lt;div&gt;Data_ram.v&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="350" width="70" height="30" as="geometry" />
+          <mxGeometry x="800" y="350" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-33" value="IO设备译码&lt;div&gt;io.dev.v&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="680" width="120" height="50" as="geometry" />
@@ -103,14 +103,11 @@
         <mxCell id="wq75Vk_UO1A5kvITEgm8-36" value="dout_a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-61" value="" style="edgeStyle=none;shape=connector;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="wq75Vk_UO1A5kvITEgm8-37" target="wq75Vk_UO1A5kvITEgm8-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-37" value="ena&lt;div&gt;wea&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addra&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;d_in_a&lt;/div&gt;&lt;div&gt;clka&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-38" value="dout_a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="820" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-39" value="ce&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;we&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addr&lt;/div&gt;&lt;div&gt;din&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;clk&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;rst_n&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="525" width="60" height="30" as="geometry" />
@@ -199,9 +196,6 @@
               <mxPoint x="710" y="140" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-60" value="ena&lt;div&gt;wea&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addra&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;d_in_a&lt;/div&gt;&lt;div&gt;clka&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
