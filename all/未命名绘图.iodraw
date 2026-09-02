@@ -22,8 +22,11 @@
         <mxCell id="wq75Vk_UO1A5kvITEgm8-6" value="CPU_rst_n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wq75Vk_UO1A5kvITEgm8-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-7" value="ice" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
