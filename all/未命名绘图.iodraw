@@ -199,11 +199,12 @@
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-62" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;exitX=1.008;exitY=0.199;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.345;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="682" y="252" as="sourcePoint" />
-            <mxPoint x="760" y="151" as="targetPoint" />
+            <mxPoint x="670" y="256" as="sourcePoint" />
+            <mxPoint x="748" y="155" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="252" />
-              <mxPoint x="720" y="150" />
+              <mxPoint x="708" y="256" />
+              <mxPoint x="720" y="200" />
+              <mxPoint x="708" y="154" />
             </Array>
           </mxGeometry>
         </mxCell>
