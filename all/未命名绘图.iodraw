@@ -6,10 +6,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="kT4_YSel-MGOpIn8Tgrq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kT4_YSel-MGOpIn8Tgrq-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="490" as="targetPoint" />
+            <mxPoint x="263" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="263" y="450" />
-              <mxPoint x="263" y="480" />
+              <mxPoint x="263" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
