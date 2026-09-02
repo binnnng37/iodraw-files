@@ -377,8 +377,11 @@
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-86" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="510" as="sourcePoint" />
-            <mxPoint x="730" y="460" as="targetPoint" />
+            <mxPoint x="710" y="600" as="sourcePoint" />
+            <mxPoint x="710" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
