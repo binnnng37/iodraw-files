@@ -110,7 +110,10 @@
           <mxGeometry x="790" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-39" value="ce&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;we&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addr&lt;/div&gt;&lt;div&gt;din&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;clk&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;rst_n&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq75Vk_UO1A5kvITEgm8-40" value="dout_a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
