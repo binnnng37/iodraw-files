@@ -77,7 +77,7 @@
           <mxGeometry x="480" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-27" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;inst&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; dout&lt;/div&gt;&lt;div&gt;&amp;nbsp; inst_ce&lt;/div&gt;&lt;div&gt;&amp;nbsp;inst_addr&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Data_ce&lt;/div&gt;&lt;div&gt;&amp;nbsp;Data_we&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Data_addr&lt;/div&gt;&lt;div&gt;Data_d in&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; io_ce&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;io_WE&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; io_addr&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;io_din&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wq75Vk_UO1A5kvITEgm8-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="110" width="120" height="90" as="geometry" />
